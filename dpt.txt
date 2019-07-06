@@ -1,0 +1,9 @@
+git commands
+ls
+pwd
+git status
+git init
+history
+git add .
+git commit -m "text document"
+git push -u https://......(ip)
